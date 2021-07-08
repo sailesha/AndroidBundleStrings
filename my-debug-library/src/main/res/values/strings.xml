@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-  <!--
   <string name="my_debug_library_string_1">My debug library string 1</string>
-  -->
 
 </resources>
 
