@@ -1,0 +1,4 @@
+include ':my-debug-library'
+include ':mydynamicfeature'
+include ':app'
+rootProject.name = "Bundle Strings"
